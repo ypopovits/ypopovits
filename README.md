@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yaroslav Popovitch
+- 👀 I’m interested in programming for Mac and Linux. 
+- 🌱 I’m currently learning C++11/STL
+- 📫 How to reach me: yaroslav dot popovitch at gmail dot com
